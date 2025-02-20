@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mic-iot05/mic_arm_ws/devel/setup.sh
